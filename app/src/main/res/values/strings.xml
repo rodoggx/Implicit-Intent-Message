@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Receive Implicit Message</string>
+    <string name="sendMessage">Send</string>
+    <string name="chooser">Select a Chooser</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+</resources>
